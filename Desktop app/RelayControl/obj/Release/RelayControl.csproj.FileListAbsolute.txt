@@ -1,0 +1,16 @@
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\bin\Release\RelayControl.exe.config
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\bin\Release\RelayControl.exe
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\bin\Release\RelayControl.pdb
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\RelayControl.csproj.AssemblyReference.cache
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\RelayControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\MainWindow.g.cs
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\App.g.cs
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\RelayControl_MarkupCompile.cache
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\RelayControl_MarkupCompile.lref
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\MainWindow.baml
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\RelayControl.g.resources
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\RelayControl.Properties.Resources.resources
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\RelayControl.csproj.GenerateResource.cache
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\RelayControl.csproj.CoreCompileInputs.cache
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\RelayControl.exe
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Release\RelayControl.pdb

@@ -1,0 +1,16 @@
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\bin\Debug\RelayControl.exe.config
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\bin\Debug\RelayControl.exe
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\bin\Debug\RelayControl.pdb
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\RelayControl.csproj.AssemblyReference.cache
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\RelayControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\MainWindow.g.cs
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\App.g.cs
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\RelayControl_MarkupCompile.cache
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\RelayControl_MarkupCompile.lref
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\MainWindow.baml
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\RelayControl.g.resources
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\RelayControl.Properties.Resources.resources
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\RelayControl.csproj.GenerateResource.cache
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\RelayControl.csproj.CoreCompileInputs.cache
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\RelayControl.exe
+C:\Users\javin\OneDrive - UNIVERSIDAD DE HUELVA\Univ\!TFG\VSProjects\ascomTest1\RelayControl\obj\Debug\RelayControl.pdb

@@ -1,0 +1,58 @@
+﻿<Window x:Class="RelayControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RelayControl"
+        mc:Ignorable="d"
+        Title="Relay Controller" Height="640" Width="440"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}" MinWidth="440" MinHeight="200" Icon="/arduino.png">
+
+    <DockPanel Margin="10">
+        <DockPanel DockPanel.Dock="Top" MinHeight="24">
+            <Button DockPanel.Dock="Right" Margin="10,0,0,0" FontSize="14" Name="btnRefresh" Click="BtnRefresh_Click" VerticalAlignment="Center" HorizontalAlignment="Right" Height="23" Width="23" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">&#x21bb;</Button>
+            <ComboBox Name="cmbPorts" ItemsSource="{Binding Devices}" Text="Select a device..." SelectionChanged="CmbPorts_SelectionChanged" VerticalContentAlignment="Center"/>
+        </DockPanel>
+
+        <GroupBox Header="Mode" DockPanel.Dock="Bottom" MinHeight="63">
+            <DockPanel>
+                <RadioButton GroupName="Modes" Name="RadON" VerticalContentAlignment="Center" DockPanel.Dock="Left" Margin="0,0,10,0" IsChecked="True">On</RadioButton>
+                <RadioButton GroupName="Modes" Name="RadOFF" VerticalContentAlignment="Center" DockPanel.Dock="Left" Margin="0,0,10,0">Off</RadioButton>
+                <RadioButton GroupName="Modes" Name="RadToggle" VerticalContentAlignment="Center" DockPanel.Dock="Left" Margin="0,0,10,0">Toggle</RadioButton>
+                <RadioButton GroupName="Modes" Name="RadPulse" VerticalContentAlignment="Center" DockPanel.Dock="Left" HorizontalAlignment="Left">
+                    <GroupBox Header="Pulse" VerticalAlignment="Center">
+                        <StackPanel Orientation="Horizontal" >
+                            <TextBox Name="TxtPulseDuration" VerticalAlignment="Center" Width="42" PreviewTextInput="NumberValidationTextBox" TextAlignment="Right">1000</TextBox>
+                            <TextBlock VerticalAlignment="Center" Margin="2,0,5,0">ms</TextBlock>
+                            <CheckBox Name="ChkPulseCounting" IsChecked="False" VerticalAlignment="Center" Margin="0,0,5,0">Count</CheckBox>
+                            <TextBox Name="TxtPulseCount" IsEnabled="{Binding IsChecked, ElementName=ChkPulseCounting}" VerticalAlignment="Center" Width="35" PreviewTextInput="NumberValidationTextBox" TextAlignment="Right">5</TextBox>
+                        </StackPanel>
+                    </GroupBox>
+                </RadioButton>
+                <Button Name="btnSend" DockPanel.Dock="Right" HorizontalAlignment="Right" Margin="0,5,1,5" IsEnabled="False" MinWidth="36" Click="btnSend_Click">Send</Button>
+            </DockPanel>
+        </GroupBox>
+
+        <Button FontSize="14" Name="btnSelectAll" Click="RelayButton_Click" DockPanel.Dock="Bottom" IsEnabled="False">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock>ALL</TextBlock>
+                <TextBlock Name="btnSelectAllSelected" Foreground="Gray" FontStyle="Italic" Margin="10,0,0,0" Visibility="Collapsed">Selected</TextBlock>
+            </StackPanel>
+        </Button>
+        
+        
+        
+        
+        
+        <Grid Name="GrdRelays">
+            <Grid.RowDefinitions>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            
+        </Grid>
+    </DockPanel>
+</Window>
